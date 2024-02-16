@@ -19,7 +19,6 @@
 <a href="https://www.instagram.com/malikov.suleyman/" target="blank"><img align="center" title="Instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malikov.suleyman" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/suleymanmalikov1" target="blank"><img align="center" title="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suleymanmalikov1" height="30" width="40" /></a>
 <a href="https://leetcode.com/suleymanmalikov03/" target="blank"><img align="center" title="LeetCode" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="suleymanmalikov03" height="30" width="40" /></a>
-<a href="https://gitlab.com/Suleymanmalikov" target="blank"><img align="center" title="GitLab" src="https://img.icons8.com/color/48/000000/gitlab.png" alt="suleymanmalikov" height="30" width="40" /></a>
 
 </p>
 
