@@ -1,7 +1,7 @@
 
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Welcome%20to%20my%20Github%20Profile👨‍💻&width=1800&height=400 )](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20Github%20Profile👨‍💻&width=1800&height=400)](https://github.com/Suleymanmalikov)
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Suleymanguly</h1>
@@ -48,10 +48,11 @@
 
 ## 📊 My Github Stats
   
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suleymanmalikov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Suleymanmalikov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>   
+ <br/>
+    <p align="center">
+    <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suleymanmalikov&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Yakup3/github-readme-stats"><img alt="Yakup's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yakup3&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   
 <!--   <br/>
     <p align="center">
