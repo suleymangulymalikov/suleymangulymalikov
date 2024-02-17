@@ -33,6 +33,7 @@
 <!--     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img title="C++" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> -->
 <!--     <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img title="React Native" src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/> </a>  -->
     <a href="https://reactjs.org/" target="_blank"> <img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img title="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="45" height="45"/> </a>
 <!--   <a href="https://nextjs.org/" target="_blank"> <img title="Next.js" src="https://img.icons8.com/color/48/000000/nextjs.png" alt="nextjs" width="45" height="45"/> </a> -->
     <a href="https://www.w3.org/html/" target="_blank"> <img title="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img title="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
