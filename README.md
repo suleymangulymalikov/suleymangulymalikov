@@ -2,7 +2,6 @@
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=adfy&width=1800&height=400)](https://github.com/Suleymanmalikov)
-[![](./image.svg)]
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Suleymanguly</h1>
 <!-- <h3 align="center">I'm senior year student at TED University.</h3> -->
