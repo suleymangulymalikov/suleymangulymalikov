@@ -29,7 +29,19 @@
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+    <a href="https://xstate.js.org/docs/" target="_blank" rel="noreferrer"> 
+<img src="https://statelyai.gallerycdn.vsassets.io/extensions/statelyai/stately-vscode/2.1.0/1704976313007/Microsoft.VisualStudio.Services.Icons.Default" alt="xstate" width="40" height="40"/> 
+    </a> 
+    <a href="https://styled-components.com/" target="_blank" rel="noreferrer"> 
+<img src="https://styled-components.com/logo.png" alt="styled-components" width="40" height="40"/> 
+    </a> 
+    <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> 
+<img src="https://jestjs.io/img/jest.svg" alt="jest" width="40" height="40"/> 
+    </a> 
+    <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"> 
+<img src="https://testing-library.com/img/octopus-128x128.png" alt="react-testing-library" width="40" height="40"/> 
+    </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/b872b9ada0c2c3d373bbb0c356eb4af353127335fc3d2e611964433864ab4de1/68747470733a2f2f676574626f6f7473747261702e636f6d2f646f63732f352e322f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67" alt="bootstrap" width="40" height="40"/> </a> 
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
