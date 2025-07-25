@@ -1,7 +1,7 @@
 
 
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-[![Welcome to my Github Profile](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20Github%20Profile👨‍💻&width=2500&height=600)](https://github.com/Suleymanmalikov)
+[![Welcome to my Github Profile](https://svg-banners.vercel.app/api?type=glitch&text1=Welcome%20to%20my%20Github%20Profile👨‍💻&width=2500&height=600)](https://github.com/suleymangulymalikov)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Suleymanguly</h1>
 <!-- <h3 align="center">I'm senior year student at TED University.</h3> -->
@@ -61,8 +61,8 @@
   
  <br/>
     <p align="center">
-    <a href="https://github.com/Suleymanmalikov/github-readme-stats"><img alt="Suleymanguly's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suleymanmalikov&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Suleymanmalikov/github-readme-stats"><img alt="Suleymanguly's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suleymanmalikov&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/suleymangulymalikov/github-readme-stats"><img alt="Suleymanguly's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suleymangulymalikov&show_icons=true&count_private=true&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/suleymangulymalikov/github-readme-stats"><img alt="Suleymanguly's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suleymangulymalikov&langs_count=8&count_private=true&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
 <!--   <br/>
