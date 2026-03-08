@@ -1,14 +1,14 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
+### Hi there! 
 
 I'm Suleymanguly, a backend-focused Computer Science student based in Poland.  
 
-I build **RESTful APIs in Python** with a focus on clean architecture, database design, and maintainable backend systems.
+I build RESTful APIs in Python with a focus on clean architecture, database design, and maintainable backend systems.
 
 ### These days I'm focused on:
 
-- REST API design with **FastAPI**
-- **PostgreSQL** database design and SQLAlchemy ORM
-- **Database migrations with Alembic**
+- REST API design with FastAPI
+- PostgreSQL database design and SQLAlchemy ORM
+- Database migrations with Alembic
 - Clean backend architecture and modular project structure
 
 ---
