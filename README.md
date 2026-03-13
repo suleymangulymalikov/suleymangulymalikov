@@ -19,5 +19,5 @@ I build RESTful APIs in Python with a focus on clean architecture, database desi
 
 ---
 More about me:
-- Linkedin: https://www.linkedin.com/in/suleymanguly-malikov/
-- Leetcode: leetcode.com/u/suleymanmalikov03/
+- Linkedin: [linkedin.com/in/suleymanguly-malikov/](https://www.linkedin.com/in/suleymanguly-malikov/)
+- Leetcode: [leetcode.com/u/suleymanmalikov03/](https://leetcode.com/u/suleymanmalikov03/)
