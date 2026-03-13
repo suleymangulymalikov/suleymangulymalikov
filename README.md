@@ -1,6 +1,6 @@
 ### Hi there! 
 
-I'm Suleymanguly, a backend-focused Computer Science student based in Poland.  
+I'm Suleymanguly Malikov, a backend-focused Computer Science student based in Poland.  
 
 I build RESTful APIs in Python with a focus on clean architecture, database design, and maintainable backend systems.
 
